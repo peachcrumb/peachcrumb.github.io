@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/testmodel.jpg
 title: "ARCH 101 Models"
 date: 2024
 published: true
