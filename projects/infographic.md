@@ -9,7 +9,7 @@ labels:
   - neuroscience
   - dementia
   - research
-summary: "A poster containing information regarding Alzheimer's dementia commonality and treatment/support for those affected (not exclusive to diagnosed patients)."
+summary: "A poster containing information regarding Alzheimer's dementia for my General Chemistry II class."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
