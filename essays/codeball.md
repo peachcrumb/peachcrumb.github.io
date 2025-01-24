@@ -15,17 +15,21 @@ ES6 was kind of a nightmare at first for the informal or take-home WODs since I 
 
 Once I learned (and continue learning) more precise syntactical features, it will probably become a smoother ride.  
 
+
 ## Learning as a sport?  
 
-<img width="307px" height="325px" class="rounded float-start pe-4" src="../img/codeball.jpg" align="center">  
+
+<p><img width="307px" height="325px" class="rounded float-start pe-4" src="../img/codeball.jpg" align="center"></p>  
 
 Athletic software engineering is a very amusing and interesting way to describe what is likely an industry standard.  
 
 That being said, I can understand how the comparisons are a decently accurate representation of the methods and mindsets needed to succeed as a programmer.  
 
+
 # I like WOD-dle dee...  
 
-<img width="400px" class="rounded float-start pe-4" src="../img/waddle.jpg" align="center">  
+
+<p><img width="400px" class="rounded float-start pe-4" src="../img/waddle.jpg" align="center"></p>  
 
 I like the WODS even though I always barely finish or end up somewhere outside of the average zone, especially because the idea and even the practice WOD scared me at first  
 
