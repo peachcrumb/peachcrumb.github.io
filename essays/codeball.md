@@ -25,7 +25,7 @@ That being said, I can understand how the comparisons are a decently accurate re
 
 # I like WOD-dle dee...  
 
-<img width="400px" class="rounded float-left" src="../img/waddle.jpg" align="left">  
+<img width="400px" class="rounded float-start pe-4" src="../img/waddle.jpg" align="left">  
 
 I like the WODS even though I always barely finish or end up somewhere outside of the average zone, especially because the idea and even the practice WOD scared me at first  
 
