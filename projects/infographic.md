@@ -16,4 +16,4 @@ Vacay is a web application that I helped create as a team project in ICS 415, Sp
 
 <p align="center"><img class="img-fluid" src="../img/ChangInfographic.png"></p>
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://www.cdc.gov/healthy-aging-data/media/pdfs/subjective-cognitive-decline-508.pdf?CDC_AAref_Val=https://www.cdc.gov/aging/agingdata/docs/subjective-cognitive-decline-508.pdf">CDC SCD Resource</a>
