@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/akaji.png
+image: img/akaji.jpeg
 title: "Micromouse"
 date: 2024
 published: true
