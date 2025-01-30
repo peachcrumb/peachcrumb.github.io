@@ -14,8 +14,8 @@ summary: "The ARCH 100 class was tasked with creating our own interpretations of
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="375px" src="../img/reference.jpeg" class="img-thumbnail" >
+  <img width="375px" src="../img/final.jpeg" class="img-thumbnail" >
 </div>
 
 During the 'tools' module of ARCH 100, we were instructed to observe the Bumpei Akaji statue in front of the RISE building, and capture a  reference image while being able to explain our intentions behind the angle we chose. This was an individual project and did not contain a proposal or drafting step before being submitted. Its intention was to teach us how to become more detail-oriented and comfortable with sketching our designs, for practice as well as inspiration in future assignments. Above are both my reference image (left) and final product (right). I chose this specific view for the reference because I thought it best-showcased the overall statue, with its U-shaped line and loop, and directions from the ground to up and outward clearly on display.  
