@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/pigeon.png">
 
 ## There are stupid questions
 
@@ -19,41 +19,15 @@ If you ever heard a teacher excitedly spouting about there being no stupid quest
 
 ## Reform your question and increase answerability
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
-
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+In life, when it comes to using the command-line to execute your statements or change the shell (something the forums guide specified not to ask!), StackExchange and likely one of its many sites in the family will have the answer for specific enough questions. The following question was found on the Apple Ask Different page since it was specifically regarding shells in Terminal. See how this question is missing pieces and clearly needs improvement:
 
 ```
-Q: python date of the previous month
+Q: Zsh vs Bash shell in Terminal  
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
+Are there any advantages to using zsh vs bash shell in Terminal app? Also, can you use zsh from the terminal? My understanding of zsh is skewed.
 ```
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+And if there isn’t time to check the link to the question itself, note that it was a duplicate or already existing question within the forum site (lending to its stupidity factor… may I say stfw).
 
 ```
 A: datetime and the datetime.timedelta classes are your friend.
