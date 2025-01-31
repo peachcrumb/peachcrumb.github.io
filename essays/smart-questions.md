@@ -28,6 +28,7 @@ Are there any advantages to using zsh vs bash shell in Terminal app? Also, can y
 ```
 
 And if there isn’t time to check the link to the question itself, note that it was a duplicate or already existing question within the forum site (lending to its stupidity factor… may I say stfw). This question is bare-bones at best, given that it is missing:  
+
 1) Evidence of attempting to answer their own questions  
 2) Specifications of what they need exactly  
 3) Background information on what they already know – in this case they only provide "My understanding of zsh is skewed"... Great! Give us nothing to work with, why don't you!?!
