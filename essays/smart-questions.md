@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<div class="text-center p-4"><img width="600px"" src="../img/pigeon.png"></div>  
+<div class="text-center p-4"><img width="600px" src="../img/pigeon.png"></div>  
 
 ## There are stupid questions
 
