@@ -11,11 +11,11 @@ labels:
   - StackOverflow
 ---
 
-<div class="text-center p-4"><img width="600px" class="rounded float-start pe-4" src="../img/pigeon.png"></div>  
+<div class="text-center p-4"><img width="600px"" src="../img/pigeon.png"></div>  
 
 ## There are stupid questions
 
-If you ever heard a teacher excitedly spouting about there being no stupid questions, either they had extremely little real-world experience (doubtful), or just said that to encourage class participation. Questions that can sometimes be considered "stupid" are found throughout numerous areas in life. Let’s examine some specific examples and see how they can be improved or avoided.
+If you ever heard a teacher excitedly spouting about there being no stupid questions, either they had extremely little real-world experience (doubtful), or just said that to encourage class participation. Questions that can sometimes be considered 'stupid' are found throughout numerous areas in life. Let’s examine some specific examples and see how they can be improved or avoided.
 
 ## Reform your question and increase answerability
 
@@ -67,7 +67,7 @@ What is also confusing is that ~/.zprofile and ~/.zlogin are both for login shel
 What startup/shutdown files should be used when setting up the ZSH shell environment and how/what should they be configured?
 ```
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+Unlike the first example, this user explained what information was already known and things they tried before posting the question. They also precisely included what they needed help with, being "What startup/shutdown files should be used when setting up the ZSH shell environment and how/what should they be configured?". Since I found this question from my past Google searches because I was a beginner also confused by the differences between the different shells, I can understand why searching even with background knowledge may not immediately yield the most direct answer. Needless to say, they received one detailed and relative answer, which is as much as you can hope for when posting a 'smart' question to the internet.
 
 ## Final thoughts
 
