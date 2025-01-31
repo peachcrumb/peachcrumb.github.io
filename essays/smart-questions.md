@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/pigeon.png">  
+<div class="text-center p-4"><img width="600px" class="rounded float-start pe-4" src="../img/pigeon.png"></div>  
 
 ## There are stupid questions
 
@@ -27,29 +27,24 @@ Q: Zsh vs Bash shell in Terminal
 Are there any advantages to using zsh vs bash shell in Terminal app? Also, can you use zsh from the terminal? My understanding of zsh is skewed.
 ```
 
-And if there isn’t time to check the link to the question itself, note that it was a duplicate or already existing question within the forum site (lending to its stupidity factor… may I say stfw).
+And if there isn’t time to check the link to the question itself, note that it was a duplicate or already existing question within the forum site (lending to its stupidity factor… may I say stfw). This question is bare-bones at best, given that it is missing:  
+1) Evidence of attempting to answer their own questions
+2) Specifications of what they need exactly
+3) Background information on what they already know – in this case they only provide "My understanding of zsh is skewed"... Great! Give us nothing to work with, why don't you!?!
+
+It also contains a yes/no type of question within the post, which can be considered unnecessary. Thankfully, a couple of people were gracious and answered the silly question with the following: 
 
 ```
-A: datetime and the datetime.timedelta classes are your friend.
+Q: Are there any advantages to using zsh vs bash?
+A: Both have their own unique set of features. It's upto you to choose a shell. Bash is the default login shell set for users in macOS whereas zsh is also available.
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+Q: can you use zsh from the terminal?
+A: Yes. Simply type zsh in Terminal to start Zsh shell. You can also set zsh as your default shell by going to System Preferences app → Users & Groups right click on your account name and choose Advanced Options....
 
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
+Choice of shell is a subjective matter. However, if you are a command line newbie, it's recommended to stick with Bash shell.
 ```
  
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+The answers were detailed and civil, and the one referenced above even included an image for reference. Next time, this poster should utilize Google first before creating a duplicate question, and figure out if they need to largely narrow what they are looking for before or as they draft their post.
 
 ## How to avoid asking a stupid question
 
