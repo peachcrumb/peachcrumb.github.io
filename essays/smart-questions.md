@@ -48,21 +48,27 @@ The answers were detailed and civil, and the one referenced above even included 
 
 ## How to avoid asking a stupid question
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+[Here](https://apple.stackexchange.com/questions/388622/zsh-zprofile-zshrc-zlogin-what-goes-where) is another question on a similar topic within the same StackExchange site, but better formatted likely due to the author being more well-informed before posting:
 
 ```
-Q: Facebook Desktop Notifier
+Q: ZSH: .zprofile, .zshrc, .zlogin - What goes where?
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+Now that I've upgraded to Catalina and I am using the new ZSH shell, I've noticed that ~/.bash_profile has been replaced with ~/.zprofile and since installing iTerm2 shell integration, it added a ~/.zshrc file.
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+Looking at the ZSH documentation on Startup/Shutdown Files, there are a number of files (located in the home directory $HOME or ~/):
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
+.zprofile (login shell)
+.zshenv (environment variables)
+.zshrc (interactive shell)
+.zlogin (login shell)
+.zlogout (when the shell exits)
+What is also confusing is that ~/.zprofile and ~/.zlogin are both for login shells, so, things can get confusing as to what to put where.
+
+What startup/shutdown files should be used when setting up the ZSH shell environment and how/what should they be configured?
 ```
 
 A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
 
-## Conclusion
+## Final thoughts
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+From the examples above we see both the smart and not-so-bright ways to pose a question. We can conclude that including as much relevant information as possible and exhausting all other available resources before asking are the best strategies to get much closer to the answer one is looking for (rather than a vague or largely unhelpful one). In recent years and perhaps at times throughout the overall history of the internet, we've seen hyperspecific moments (like the commenters for both of these questions) where other users are generous and willing to respond regardless of the level of intelligence or thought input into the question. However, it cannot always be expected that people will be courteous online, and therefore we should do our best in serious forums to ask efficient questions so as not to waste our or everyone else's time and possibly avoid discomforting or hostile conversations.
