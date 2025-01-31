@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/pigeon.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/pigeon.png">  
 
 ## There are stupid questions
 
@@ -19,7 +19,7 @@ If you ever heard a teacher excitedly spouting about there being no stupid quest
 
 ## Reform your question and increase answerability
 
-In life, when it comes to using the command-line to execute your statements or change the shell (something the forums guide specified not to ask!), StackExchange and likely one of its many sites in the family will have the answer for specific enough questions. The following question was found on the Apple Ask Different page since it was specifically regarding shells in Terminal. See how this question is missing pieces and clearly needs improvement:
+In life, when it comes to using the command-line to execute your statements or change the shell (something the [forums guide](http://www.catb.org/esr/faqs/smart-questions.html#idm568) specified not to ask!), StackExchange and likely one of its many sites in the family will have the answer for specific enough questions. The following question was found on the Apple Ask Different page since it was specifically regarding shells in Terminal. See how [this question](https://apple.stackexchange.com/questions/334542/zsh-vs-bash-shell-in-terminal) is missing pieces and clearly needs improvement:
 
 ```
 Q: Zsh vs Bash shell in Terminal  
