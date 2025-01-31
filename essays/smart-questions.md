@@ -15,7 +15,7 @@ labels:
 
 ## There are stupid questions
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+If you ever heard a teacher excitedly spouting about there being no stupid questions, either they had extremely little real-world experience (doubtful), or just said that to encourage class participation. Questions that can sometimes be considered "stupid" are found throughout numerous areas in life. Let’s examine some specific examples and see how they can be improved or avoided.
 
 ## Reform your question and increase answerability
 
