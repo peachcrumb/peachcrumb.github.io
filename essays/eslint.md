@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<p><img width="350px" border="3px" border-color="gray" src="../img/snowball.JPG" align="center"></p>  
+<p><img width="350px" border="13px" border-color="gray" src="../img/snowball.JPG" align="center"></p>  
 
 ## ESLint-Roller...?
 
