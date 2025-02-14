@@ -45,7 +45,7 @@ the first time, so the revised statement may have fundamental changes.
 
 ## Inconvenience-Turned-Recommendation
 
-<div class="text-center p-4"><img width="200px" src="../img/erm.jpeg"></div>  
+<p><img width="200px" src="../img/erm.jpeg" align="center"></p>  
 
 The problem with the appearance of an optional set of problems or errors makes it difficult to differentiate at first glance which ones are the priority for debugging, which is  
 
