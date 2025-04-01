@@ -28,6 +28,7 @@ Some mockup pages include:
 - Individual posts pages
 - Contact information page
 - About/FAQ page
+- Wendy's login page
 
 
 ## Use case ideas
@@ -37,3 +38,4 @@ Some mockup pages include:
 ## Beyond the basics
 After implementing the basic functionality, here are ideas for more advanced features:
 
+- Email notifications
