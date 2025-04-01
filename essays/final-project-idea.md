@@ -9,16 +9,15 @@ labels:
   - Nextjs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+# Project: Dear Wendy
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Overview 
+*The problem:* There are currently multiple email updates from President Hensel that flood our hawaii.edu inbox every week. With every government update and the fast pace of the landscapes for American universities (like ours), it would be nice to receive a consolidated newsletter from Wendy regarding her statements and plans to address upcoming issues and dispel potential concerns about the future of UH.
 
-## Overview (including “The problem” and “The solution”)
+*The solution:* To reduce our inbox clutter and give FOMO victims some peace of mind, the Dear Wendy page will have all of the President's updates in one place. It will be a blogpost-style site 
 
-
-
-## Names of the proposers (to get credit for this assignment)
-
+## Names of the proposers
+Phoebe Chang
 
 
 ## Mockup page ideas
@@ -30,3 +29,5 @@ labels:
 
 
 ## Beyond the basics
+After implementing the basic functionality, here are ideas for more advanced features:
+
