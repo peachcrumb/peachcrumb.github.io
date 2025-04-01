@@ -32,8 +32,11 @@ Some mockup pages include:
 
 
 ## Use case ideas
+Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
-
+- User goes to landing page (newsfeed), to Ask Wendy form and submits, gets homepage to view existing posts.
+- Wendy/admin goes to landing page/Wendy login, logs in, sees new messages from form, reponds to messages/post replies, gets home page.
+- Wendy/admin goes to landing page/Wendy login, logs in, edits site posts/pages.
 
 ## Beyond the basics
 After implementing the basic functionality, here are ideas for more advanced features:
