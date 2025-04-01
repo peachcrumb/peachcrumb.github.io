@@ -38,4 +38,4 @@ Some mockup pages include:
 ## Beyond the basics
 After implementing the basic functionality, here are ideas for more advanced features:
 
-- Email notifications
+- Share feature for individual posts to social media/email/etc.
