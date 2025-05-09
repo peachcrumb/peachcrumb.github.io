@@ -10,7 +10,7 @@ labels:
   - Team Project
 ---
 
-<div class="text-center p-4"><img width="300px" src="../img/cloncks.jpg"></div>  
+<div class="text-center p-4"><img width="250px" src="../img/cloncks.jpg"></div>  
 
 ## Guesstimation Novices
 
