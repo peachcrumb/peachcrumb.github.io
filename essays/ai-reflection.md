@@ -21,31 +21,44 @@ To preface, my experience with AI over the course of the semester in software en
 
 There were a plethora of opportunities to use AI throughout ICS 314, as it was indirectly promoted to increase students’ efficiency. The following examples illustrate how well or not I could integrate these tools into each task:
  
-### 1. Aside from the Copilot extension once I got it, I mostly did not see a need to seek AI assistance for the experience WODs since I would prefer to learn to do it myself before fully leaning into the tools. Granted, the extension was constantly trying to do and be the most in the background, so I would passively accept suggestions only if they matched what I intended to write anyway. I have never use the "Fix using Copilot" option, since I did not trust that it would avoid inserting nonsense code into my existing work.
+### 1. 
+Aside from the Copilot extension once I got it, I mostly did not see a need to seek AI assistance for the experience WODs since I would prefer to learn to do it myself before fully leaning into the tools. Granted, the extension was constantly trying to do and be the most in the background, so I would passively accept suggestions only if they matched what I intended to write anyway. I have never use the "Fix using Copilot" option, since I did not trust that it would avoid inserting nonsense code into my existing work.
 
-### 2-3. For both in-class practice and regular WODs, I would be under more pressure from the time constraint, so using the features of  the Copilot extension mentioned above was a more embraced action in these contexts. I used "Explain using Copilot" if I was in a pinch and needed to understand the cause and possible fix ideas for unforeseen bugs. I would then test those proposed solutions to see if it a) made sense to successfully resolve the problem and b) matched anything we learned in class. I also loosely used Gemini for debugging before obtaining the Github student pack, prompting it with "debug [my code here]". 
+### 2-3. 
+For both in-class practice and regular WODs, I would be under more pressure from the time constraint, so using the features of  the Copilot extension mentioned above was a more embraced action in these contexts. I used "Explain using Copilot" if I was in a pinch and needed to understand the cause and possible fix ideas for unforeseen bugs. I would then test those proposed solutions to see if it a) made sense to successfully resolve the problem and b) matched anything we learned in class. I also loosely used Gemini for debugging before obtaining the Github student pack, prompting it with "debug [my code here]". 
 
-### 4. I did not use AI to write any of my essays because this is not a personal habit of mine. Because I have been strongly deterred by specific professors in the past with the threat of expulsion, I never reached for the tools in this purpose despite knowing they existed. Comically enough, my personal writing style has faced AI-llegations over time from writing professors, peers, and professionals with reading-intensive careers so many times to the point of having a running joke that I am a living and breathing AI. Crazy, right?
+### 4. 
+I did not use AI to write any of my essays because this is not a personal habit of mine. Because I have been strongly deterred by specific professors in the past with the threat of expulsion, I never reached for the tools in this purpose despite knowing they existed. Comically enough, my personal writing style has faced AI-llegations over time from writing professors, peers, and professionals with reading-intensive careers so many times to the point of having a running joke that I am a living and breathing AI. Crazy, right?
 
-### 5. For our final project, other than the basic existence and routine minimal usage of Github Copilot, I did not write any prompts to create code or debug. My most heavy-handed use of AI in the project was to create documentation for elements in our Prisma Schema. After reviewing its output, I determined that I couldn’t have summarized or explained our code any more clearly or precisely, so I included it in our final project page’s guide.
+### 5. 
+For our final project, other than the basic existence and routine minimal usage of Github Copilot, I did not write any prompts to create code or debug. My most heavy-handed use of AI in the project was to create documentation for elements in our Prisma Schema. After reviewing its output, I determined that I couldn’t have summarized or explained our code any more clearly or precisely, so I included it in our final project page’s guide.
 
-### 6. No AI tools specifically gave me tutorials, but after incorporating the Copilot extension I did periodically request for explanations of certain errors. These were helpful about 50-70% of the time, and when they were I was able to learn what was causing the issue and how to resolve or avoid it next time.
+### 6. 
+No AI tools specifically gave me tutorials, but after incorporating the Copilot extension I did periodically request for explanations of certain errors. These were helpful about 50-70% of the time, and when they were I was able to learn what was causing the issue and how to resolve or avoid it next time.
 
-### 7. I did not use AI to answer a question in class or in Discord since I was barely active on either fronts.
+### 7. 
+I did not use AI to answer a question in class or in Discord since I was barely active on either fronts.
 
-### 8. I did not use AI to ask or answer a smart-question, as I did not find previous responses to questions of similar depth and weight in other courses to be satisfactory and therefore felt that it is currently not quite equipped to handle such multidimensional inquiries.
+### 8. 
+I did not use AI to ask or answer a smart-question, as I did not find previous responses to questions of similar depth and weight in other courses to be satisfactory and therefore felt that it is currently not quite equipped to handle such multidimensional inquiries.
 
-### 9. I did not write any prompts to produce example code because it didn’t occur me to use AI in this manner.
+### 9. 
+I did not write any prompts to produce example code because it didn’t occur me to use AI in this manner.
 
-### 10. While I did not use AI to explain the context of existing code, I utilized the "Explain using Copilot" function from the extension in order to gain some insight on causes of bugs and possible solutions.
+### 10. 
+While I did not use AI to explain the context of existing code, I utilized the "Explain using Copilot" function from the extension in order to gain some insight on causes of bugs and possible solutions.
 
-### 11. Other than accepting suggestions from the Copilot extension, I did not use AI to write code because I don’t trust its accuracy at this point in time.
+### 11. 
+Other than accepting suggestions from the Copilot extension, I did not use AI to write code because I don’t trust its accuracy at this point in time.
 
-### 12. Documenting code: see #5, but otherwise did not use AI for tasks such as summaries or generating code comments.
+### 12. 
+Documenting code: see #5, but otherwise did not use AI for tasks such as summaries or generating code comments.
 
-### 13. Between a small handful of Gemini debugging requests and "Explain using Copilot", I would say I utilized AI frequently enough to double down on quality assurance. 
+### 13. 
+Between a small handful of Gemini debugging requests and "Explain using Copilot", I would say I utilized AI frequently enough to double down on quality assurance. 
 
-### 14. No other miscellaneous uses of AI in the course came to mind, other than generating humorous images to slap on essay webpages like this one
+### 14. 
+No other miscellaneous uses of AI in the course came to mind, other than generating humorous images to slap on essay webpages like this one
 
 
 ## III. Not hindering, somewhat helping
