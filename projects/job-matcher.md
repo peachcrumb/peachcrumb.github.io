@@ -16,7 +16,7 @@ summary: "Our ICS 314 final project team created a web application to match qual
 
 ## Overview
 <div class="text-center p-4">
-  <img width="1300px" src="../img/landing_page_final.png">
+  <img width="1100px" src="../img/landing_page_final.png">
 </div>
 
 
