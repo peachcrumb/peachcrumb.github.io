@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/akaji.jpeg
+image: img/cc_logo.png
 title: "Campus Careers Application"
 date: 2025
 published: true
