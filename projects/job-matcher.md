@@ -30,5 +30,5 @@ summary: "Our ICS 314 final project team created a web application to match qual
 * 
 
 
-### [Team Github] (https://github.com/campus-careers)
+### <a href="https://github.com/campus-careers">Team Github</a>
 
