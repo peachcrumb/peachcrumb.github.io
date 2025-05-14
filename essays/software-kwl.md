@@ -10,11 +10,12 @@ labels:
   - ESLint
 ---
 
-<div class="text-center p-4">
-  <img width="500px" src="../img/KWL-chart.jpg">
-</div>
 
 Many different concepts and skill topics were introduced and prescribed in this third-year software engineering course, but some of the most appealing and withstanding values and ideas that I feel will continue to be relevant and applicable beyond the semester are those of coding standard, development environments, and ethics as a part of software engineering. Let’s discuss what these mean and how I plan to keep using them in the future.
+
+<div class="text-center p-4">
+  <img width="700px" src="../img/KWL-chart.jpg">
+</div>
 
 ### Known: Development Environments
 
