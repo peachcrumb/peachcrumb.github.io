@@ -4,7 +4,7 @@ type: essay
 title: "The Elementary Teacher Lied to You"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
-published: true
+published: false
 labels:
   - Questions
   - Answers
