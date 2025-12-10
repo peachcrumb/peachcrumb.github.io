@@ -4,7 +4,7 @@ type: project
 image: img/testmodel.jpg
 title: "ARCH 101 Models"
 date: 2024
-published: true
+published: false
 labels:
   - architecture
   - SoA 101 Studio
