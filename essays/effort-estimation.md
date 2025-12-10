@@ -4,7 +4,7 @@ type: essay
 title: "We Guessed Our Best"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-08
-published: true
+published: false
 labels:
   - IPDM
   - Team Project
