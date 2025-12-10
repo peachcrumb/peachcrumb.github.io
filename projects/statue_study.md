@@ -4,7 +4,7 @@ type: project
 image: img/akaji.jpeg
 title: "Sculpture 2D Mediums Study"
 date: 2024
-published: true
+published: false
 labels:
   - architecture
   - SoA 100
