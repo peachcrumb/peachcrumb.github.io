@@ -33,20 +33,17 @@ should probably just go for it next time, and let people see what I did even if 
 I had to restart at least of my issues due to messing up and losing track in the merge editor, where I accidentally saved the changes and completed the merge at the wrong  
 step so the branch only worked like it was half done. If I had half a mind to put more time into the last one I worked on, I would've reverted majority of the commits I  
 made but at that point I was so done. Nothing more frustrating than poorly keeping track of your edits/progress when trying to do a merge, and then the whole issue's work  
-has gone down the tube depending on how severe my mistakes were. I couldn't remember what I intended to keep/change, so the frankencode branch obviously didn't work once  
-the merge was completing. Utterly devastating, but I survived the semester(?) , right..?
+has gone down the tube depending on how severe my mistakes were. I couldn't remember what I intended to keep/change, so the frankencode branch obviously didn't work once the merge was completing. Utterly devastating, but I survived the semester(?) , right..?
 
 ## 3. API usage
 I sure didn't write the calls for any of the sections involving the database. But after rereading code multiple times over and inspecting where it was implemented, I will  
-be ending this semester with a better understanding of APIs than I started. This was another section I faced my own lostness in, due to having minimal exposure or experiences  
-in other courses or lacking the practice of recreational development in my spare time. I found it easier to understand the implementations than creating the initial routing  
-file, but I'll likely see this again in the future and require understanding of how to use APIs in projects like this one.
+be ending this semester with a better understanding of APIs than I started. This was another section I faced my own lostness in, due to having minimal exposure or experiences in other courses or lacking the practice of recreational development in my spare time. I found it easier to understand the implementations than creating the  
+initial routing file, but I'll likely see this again in the future and require understanding of how to use APIs in projects like this one.
 
 ## 4. Lastly–ASK FOR HELP!!
 Because I at last reached a point of dissatisfaction with my confusion and personal failures to retain information from previous courses, after many years I recently connected  
-with an unnamed department in the school and have begun to receive support in time management and learning more effective study methods. I only wish I had done this sooner (2-3  
-years earlier) so I could have had a smoother run in classes like Software Engineering II, but better now than never I guess? Thanks to this humbling experience, the importance  
-of preventing procrastination and contacting someone as soon as I need help is moreso on my radar of revolving mental topics than it's been. Avoiding procrastination used to be a  
-vague concept I would brush aside, but taking graduation more seriously than before has forced me to address some ongoing issues with my approaches to coursework.  
+with an unnamed department in the school and have begun to receive support in time management and learning more effective study methods. I only wish I had done this sooner (2-3 years earlier) so I could have had a smoother run in classes like Software Engineering II, but better now than never I guess? Thanks to this humbling  
+experience, the importance of preventing procrastination and contacting someone as soon as I need help is moreso on my radar of revolving mental topics than it's been. 
+Avoiding procrastination used to be a vague concept I would brush aside, but taking graduation more seriously than before has forced me to address some ongoing issues with my approaches to coursework.  
 
 ### Bonus: cry about it to other CS friends and complain how life isn't fair. Then get over it and go back to work.
